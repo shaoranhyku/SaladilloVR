@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿///////////////////////////////
+// Francisco Javier Florín Cárdenas
+// Curso 2017/18
+// SaladilloVR
+// ModeJoystick.cs
+///////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

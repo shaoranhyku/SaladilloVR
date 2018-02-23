@@ -1,4 +1,10 @@
-﻿using System;
+﻿///////////////////////////////
+// Francisco Javier Florín Cárdenas
+// Curso 2017/18
+// SaladilloVR
+// ConfigurationText.cs
+///////////////////////////////
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

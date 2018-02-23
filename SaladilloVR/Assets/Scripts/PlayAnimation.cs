@@ -1,6 +1,7 @@
 ﻿///////////////////////////////
 // Francisco Javier Florín Cárdenas
 // Curso 2017/18
+// SaladilloVR
 // PlayAnimation.cs
 ///////////////////////////////
 using System.Collections;
